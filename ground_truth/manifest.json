@@ -1,0 +1,76 @@
+{
+  "figma_file_key": "p0TUYoS6pIM3cWKCCSnhpl",
+  "total_frames": 10,
+  "frames": [
+    {
+      "name": "Home",
+      "node_id": "35:6860",
+      "gt_image": "Home-Desktop.png",
+      "target_route": "/",
+      "viewport": "desktop"
+    },
+    {
+      "name": "Category",
+      "node_id": "35:7365",
+      "gt_image": "Category-Desktop.png",
+      "target_route": "/category",
+      "viewport": "desktop"
+    },
+    {
+      "name": "Detail",
+      "node_id": "35:7778",
+      "gt_image": "Detail-Desktop.png",
+      "target_route": "/detail/1",
+      "viewport": "desktop"
+    },
+    {
+      "name": "Payment",
+      "node_id": "35:8198",
+      "gt_image": "Payment-Desktop.png",
+      "target_route": "/payment",
+      "viewport": "desktop"
+    },
+    {
+      "name": "Dashboard",
+      "node_id": "35:8468",
+      "gt_image": "Dashboard-Desktop.png",
+      "target_route": "/dashboard",
+      "viewport": "desktop"
+    },
+    {
+      "name": "Home Mobile",
+      "node_id": "35:8756",
+      "gt_image": "Home-Mobile.png",
+      "target_route": "/",
+      "viewport": "mobile"
+    },
+    {
+      "name": "Category Mobile",
+      "node_id": "35:9071",
+      "gt_image": "Category-Mobile.png",
+      "target_route": "/category",
+      "viewport": "mobile"
+    },
+    {
+      "name": "Detail Mobile",
+      "node_id": "35:9363",
+      "gt_image": "Detail-Mobile.png",
+      "target_route": "/detail/1",
+      "viewport": "mobile"
+    },
+    {
+      "name": "Payment Mobile",
+      "node_id": "35:9659",
+      "gt_image": "Payment-Mobile.png",
+      "target_route": "/payment",
+      "viewport": "mobile"
+    },
+    {
+      "name": "Dashboard Mobile",
+      "node_id": "35:9924",
+      "gt_image": "Dashboard-Mobile.png",
+      "target_route": "/dashboard",
+      "viewport": "mobile"
+    }
+  ]
+}

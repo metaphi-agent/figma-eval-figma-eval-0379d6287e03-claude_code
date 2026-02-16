@@ -1,0 +1,83 @@
+{
+  "colors": {
+    "primary": {
+      "500": "#3563E9",
+      "300": "#85A8F8",
+      "0": "#FFFFFF"
+    },
+    "secondary": {
+      "500": "#1A202C",
+      "400": "#596780",
+      "300": "#90A3BF",
+      "200": "#C3D4E9"
+    },
+    "information": {
+      "500": "#54A6FF"
+    },
+    "background": "#F6F7F9"
+  },
+  "typography": {
+    "fontFamily": "Plus Jakarta Sans, sans-serif",
+    "sizes": {
+      "xs": "12px",
+      "sm": "14px",
+      "base": "16px",
+      "lg": "20px",
+      "xl": "24px",
+      "2xl": "32px"
+    },
+    "weights": {
+      "regular": "400",
+      "medium": "500",
+      "semibold": "600",
+      "bold": "700"
+    }
+  },
+  "spacing": {
+    "xs": "8px",
+    "sm": "12px",
+    "md": "16px",
+    "lg": "24px",
+    "xl": "32px",
+    "2xl": "48px",
+    "3xl": "64px"
+  },
+  "borderRadius": {
+    "sm": "4px",
+    "md": "8px",
+    "lg": "12px",
+    "xl": "16px"
+  },
+  "screens": [
+    {
+      "name": "Home",
+      "route": "/",
+      "desktop_frame_id": "35:6860",
+      "mobile_frame_id": "35:8756"
+    },
+    {
+      "name": "Category",
+      "route": "/category",
+      "desktop_frame_id": "35:7365",
+      "mobile_frame_id": "35:9071"
+    },
+    {
+      "name": "Detail",
+      "route": "/detail/:id",
+      "desktop_frame_id": "35:7778",
+      "mobile_frame_id": "35:9363"
+    },
+    {
+      "name": "Payment",
+      "route": "/payment",
+      "desktop_frame_id": "35:8198",
+      "mobile_frame_id": "35:9659"
+    },
+    {
+      "name": "Dashboard",
+      "route": "/dashboard",
+      "desktop_frame_id": "35:8468",
+      "mobile_frame_id": "35:9924"
+    }
+  ]
+}
