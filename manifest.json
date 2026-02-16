@@ -3,9 +3,12 @@
     "Step 1: Extract from Figma",
     "Step 2: Export Ground Truth",
     "Step 5: Scaffold Project",
-    "Step 6: Generate Components"
+    "Step 6: Generate Components",
+    "Step 7: Deploy & Push"
   ],
-  "updated_at": "2026-02-16T00:20:08.343663+00:00",
+  "updated_at": "2026-02-16T00:21:31.752277+00:00",
   "figma_file_key": "p0TUYoS6pIM3cWKCCSnhpl",
-  "preview_url": "https://ta-01khhx2r7cz128gmtac7437ven-5173.wo-1zecuf9l9fg6o4naqplveaogl.w.modal.host"
+  "preview_url": "https://ta-01khhx2r7cz128gmtac7437ven-5173.wo-1zecuf9l9fg6o4naqplveaogl.w.modal.host",
+  "github_repo_url": "https://github.com/metaphi-agent/figma-eval-figma-eval-0379d6287e03-claude_code",
+  "deployed_url": "https://storage.googleapis.com/metaphi-agent/figma-claude_code-agent/figma-eval-0379d6287e03/index.html"
 }
